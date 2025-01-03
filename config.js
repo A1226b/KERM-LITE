@@ -33,7 +33,7 @@ module.exports = {
    RMBG_KEY: process.env.RMBG_KEY || "",
    WORK_TYPE: process.env.WORK_TYPE || "private",
    DELETED_LOG_CHAT: process.env.DELETED_LOG_CHAT || false,
-   REMOVEBG: process.env.REMOVEBG || "",
+   REMOVEBG: process.env.REMOVEBG || "KermLite~8n6Nchy2",
    HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
    HEROKU_API_KEY: process.env.HEROKU_API_KEY,
 
